@@ -1,1 +1,1 @@
-web: gunicorn rest_api_project.wsgi --log-file -
+web: gunicorn rest_api__project.wsgi --log-file -
